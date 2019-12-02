@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AADPractica3: La Liga</string>
+    <string name="app_plantilla">Plantilla</string>
+    <string name="app_anadir">Añadir equipo</string>
+    <string name="app_anadir_jugador">Añadir jugador</string>
+    <string name="app_editar">Editar equipo</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_equipo">Nombre equipo:</string>
+    <string name="nombre_ciudad">Ciudad:</string>
+    <string name="nombre_estadio">Estadio:</string>
+    <string name="aforo">Aforo:</string>
+    <string name="jugador">Jugador</string>
+    <string name="guardar">Guardar cambios</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="anadir">Añadir</string>
+    <string name="nombre_jugador">Nombre jugador:</string>
+    <string name="operacion_jugador">Operacion jugador:</string>
+    <string name="borrar">Borrar</string>
+    <string name="apellidos">Apellidos:</string>
+</resources>
